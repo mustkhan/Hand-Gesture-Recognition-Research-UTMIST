@@ -6,5 +6,5 @@
 
 2. Install requirements.
 
-3. Use: `python webcam.py -e False -u False -cp` *[insert absolute path of weights here]* (If you have a GPU, use -u True)
+3. Use: `python webcam.py -e False -u False -cp [insert absolute path of weights here]` (If you have a GPU, use -u True)
 
