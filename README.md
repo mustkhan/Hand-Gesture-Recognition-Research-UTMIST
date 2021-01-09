@@ -6,7 +6,7 @@
 
 2. Install requirements.
 
-3. Use: `python webcam.py -e False -u False -cp [insert absolute path of weights here]` (If you have a GPU, use -u True)
+3. Use: `python webcam.py -e False -u False -cp [insert absolute path of weights here]` to run inferences using your webcam. (If you have a GPU, use -u True) 
 
-4. if you want to train, the paths in the config files will have to be changed. 
+4. if you want to train, the paths in the config files will have to be changed so don't worry about modifying those. 
 
