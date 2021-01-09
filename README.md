@@ -1,4 +1,10 @@
-# Hand-Gesture-Recognition
-Hand Gesture Recognition
+# Hand Gesture Recognition
 
-Use: python webcam.py -e False -u False -cp trainings\jpeg_model\jester_conv3D_9_classes_all_samples\model_best.pth.tar
+## Steps To Use:
+
+1. Download best weights: https://drive.google.com/drive/folders/1t4JcH-Y5rIvTWbKiEQ-x2_5NsUg8mP_L?usp=sharing and copy the absolute path of where you placed this.
+
+2. Install requirements.
+
+3. Use: python webcam.py -e False -u False -cp *[insert absolute path of weights here]* (If you have a GPU, use -u True)
+
