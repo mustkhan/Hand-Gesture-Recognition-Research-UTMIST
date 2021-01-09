@@ -8,3 +8,5 @@
 
 3. Use: `python webcam.py -e False -u False -cp [insert absolute path of weights here]` (If you have a GPU, use -u True)
 
+4. if you want to train, the paths in the config files will have to be changed. 
+
