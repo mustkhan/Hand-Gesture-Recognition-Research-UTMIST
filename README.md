@@ -17,7 +17,7 @@ Model architecture can be found in `model.py` file in repo. The current model wa
 <img src="Images/loss-plot.png" alt="Loss plot" title="Loss plot"  height="400" />
 
 
-## Steps To Use:
+## Steps To Use
 
 1. Download best weights: https://drive.google.com/drive/folders/1t4JcH-Y5rIvTWbKiEQ-x2_5NsUg8mP_L?usp=sharing and copy the absolute path of where you placed this.
 
@@ -26,4 +26,3 @@ Model architecture can be found in `model.py` file in repo. The current model wa
 3. Use: `python webcam.py -e False -u False -cp [insert absolute path of weights here]` to run inferences using your webcam. (If you have a GPU, use -u True) 
 
 4. if you want to train, the paths in the config files will have to be changed so don't worry about modifying those. 
-
