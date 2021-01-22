@@ -2,7 +2,7 @@
     <img src="Images/round-logo.png" alt="UTMIST: Hand Gesture Recognition System" title="UTMIST: Hand Gesture Recognition System" align="right" height="80" />
 </a>
 
-# UTMIST: Hand Gesture Recognition System 
+# Hand Gesture Recognition System | UTMIST Research
 ======================
 
 
