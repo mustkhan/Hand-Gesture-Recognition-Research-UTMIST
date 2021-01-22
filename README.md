@@ -10,6 +10,10 @@ The focus of this research project is on the development of a complex hand gestu
 
 Currently we are developing the components needed for the final system in a modular fashion and will be integrating these parts by Feb-March of 2021. We aim to submit our insight and work at a conference! 
 
+## Preliminary Results
+
+Model architecture can be found in `model.py` file in repo. The current model was training for 20 epochs on a GPU and has a best training accuracy of 92.53% and best validation accuracy of 81.46%. The graph shown is of the loss function and the demo shown depicts the 9 gesture classes the model trained upon working. Currently, the FPS averages 24 FPS on a GPU but needs improvement for CPU usage. In order to accomodate CPUs, a lighter gesture detection model is currently being worked upon and trained.
+
 ## Steps To Use:
 
 1. Download best weights: https://drive.google.com/drive/folders/1t4JcH-Y5rIvTWbKiEQ-x2_5NsUg8mP_L?usp=sharing and copy the absolute path of where you placed this.
