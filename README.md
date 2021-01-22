@@ -16,7 +16,6 @@ Model architecture can be found in `model.py` file in repo. The current model wa
 
 <img src="Images/loss-plot.png" alt="Loss plot" title="Loss plot"  height="400" />
 
-
 ## Steps To Use
 
 1. Download best weights: https://drive.google.com/drive/folders/1t4JcH-Y5rIvTWbKiEQ-x2_5NsUg8mP_L?usp=sharing and copy the absolute path of where you placed this.
