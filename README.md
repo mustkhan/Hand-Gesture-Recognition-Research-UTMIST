@@ -4,7 +4,7 @@
 
 # Hand Gesture Recognition System | UTMIST Research 👋 
 
-## Introduction: Research Focus
+## Introduction
 
 This research work was focused on developing a complex hand gesture recognition system that could interface with a website, games and a robot all using the built in webcam of a computer. In this currently on going project, I am responsible for researching contemporary machine learning approaches to achieving this goal, find an appropriate dataset and develop a model and train it to have a high performance accuracy. I am conducting the research work and development with a group of dedicated students in the University Of Toronto Machine Intelligence Student Team.
 
