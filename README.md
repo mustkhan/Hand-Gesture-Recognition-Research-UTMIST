@@ -1,4 +1,4 @@
-# Hand Gesture Recognition System (University Of Toronto Machine Intelligence Student Team)
+# Hand Gesture Recognition System (Research At UTMIST)
 
 ## Steps To Use:
 
