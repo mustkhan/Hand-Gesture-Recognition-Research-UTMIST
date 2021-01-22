@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="Images/round-logo.jpg" alt="UTMIST: Hand Gesture Recognition System" title="UTMIST: Hand Gesture Recognition System" align="right" height="80" />
+    <img src="Images/round-logo.png" alt="UTMIST: Hand Gesture Recognition System" title="UTMIST: Hand Gesture Recognition System" align="right" height="80" />
 </a>
 
 # UTMIST: Hand Gesture Recognition System 
