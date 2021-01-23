@@ -14,7 +14,10 @@ Currently we are developing the components needed for the final system in a modu
 
 Model architecture can be found in `model.py` file in repo. The current model was training for 20 epochs on a GPU on the 20BN-JESTER dataset and has a best training accuracy of 92.53% and best validation accuracy of 81.46%. The graph shown is of the loss function and the demo shown depicts the 9 gesture classes the model trained upon in action. Currently, the FPS averages 24 FPS on a GPU but needs improvement for CPU usage. In order to accomodate CPUs, a lighter gesture detection model is currently being worked upon and trained.
 
-<img src="Images/loss-plot.png" alt="Loss plot" title="Loss plot"  height="400" />
+<p align="center">
+  <img src="Images/loss-plot.png" alt="Loss plot" title="Loss plot" height="200" /> <img src="Images/loss-plot.png" alt="Loss plot" title="Loss plot"  height="200" />
+</p>
+
 
 ## Steps To Use
 
